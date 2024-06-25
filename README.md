@@ -18,7 +18,7 @@
 
 ###
 <div align="center">
-  <img height="150" src="gitimage.jpg"  />
+  <img height="400" width="100%" src="gitimage.jpg"  />
 </div>
 
 ###
